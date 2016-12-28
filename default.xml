@@ -4,6 +4,9 @@
         fetch="ssh://git@git.oschina.net" review="git@git.oschina.net" />
     <default revision="master" remote="origin" sync-j="4" />
     <project path="." name="sevsb/bigsword" />
-    <project path="framework" name="sevsb/obsession" />
+    <project path="framework" name="sevsb/obsession">
+        <copyfile src="index.php" dest="index.php" />
+        <copyfile src="ajax.php" dest="ajax.php" />
+    </project>
 </manifest>
 
