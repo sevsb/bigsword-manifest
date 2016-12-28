@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin"
+        fetch="git@git.oschina.net" review="git@git.oschina.net" />
+    <default revision="master" remote="origin" sync-j="4" />
+    <project path="." name="sevsb/bigsword" />
+    <project path="framework" name="sevsb/obsession" />
+</manifest>
+
