@@ -8,5 +8,6 @@
         <copyfile src="index.php" dest="index.php" />
         <copyfile src="ajax.php" dest="ajax.php" />
     </project>
+    <project path="vendor" name="sevsb/vendor" />
 </manifest>
 
