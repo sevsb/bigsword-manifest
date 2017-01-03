@@ -9,5 +9,6 @@
         <copyfile src="ajax.php" dest="ajax.php" />
     </project>
     <project path="vendor" name="sevsb/vendor" />
+    <project path="pic" name="sevsb/picservice" />
 </manifest>
 
