@@ -10,5 +10,6 @@
     </project>
     <project path="vendor" name="sevsb/vendor" />
     <project path="pic" name="sevsb/picservice" />
+    <project path="kmud" name="sevsb/kmud_webserver" />
 </manifest>
 
