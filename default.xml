@@ -2,7 +2,7 @@
 <manifest>
     <remote name="origin"
         fetch="ssh://git@git.oschina.net" review="git@git.oschina.net" />
-    <default revision="master" remote="origin" sync-j="4" />
+    <default revision="master" remote="origin" sync-j="1" />
     <project path="app" name="sevsb/bigsword" />
     <project path="framework" name="sevsb/obsession">
         <copyfile src="index.php" dest="index.php" />
