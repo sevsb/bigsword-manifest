@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="origin"
-        fetch="ssh://git@git.oschina.net" review="git@git.oschina.net" />
+        fetch="ssh://git@github.com" review="ssh://git@github.com" />
     <default revision="master" remote="origin" sync-j="1" />
-    <project path="app" name="sevsb/bigsword" />
+    <project path="bigsword" name="sevsb/bigsword" />
     <project path="framework" name="sevsb/obsession">
         <copyfile src="index.php" dest="index.php" />
         <copyfile src="ajax.php" dest="ajax.php" />
     </project>
     <project path="vendor" name="sevsb/vendor" />
     <project path="pic" name="sevsb/picservice" />
-    <project path="kmud" name="sevsb/kmud_webserver" />
     <project path="yaan" name="sevsb/yaan" />
 </manifest>
 
