@@ -11,5 +11,6 @@
     <project path="vendor" name="sevsb/vendor" />
     <project path="pic" name="sevsb/picservice" />
     <project path="yaan" name="sevsb/yaan" />
+    <project path="sango" name="sevsb/sango" />
 </manifest>
 
