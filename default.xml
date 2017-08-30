@@ -12,5 +12,6 @@
     <project path="pic" name="sevsb/picservice" />
     <project path="yaan" name="sevsb/yaan" />
     <project path="sango" name="sevsb/sango" />
+    <project path="yyba" name="sevsb/yuyueba" />
 </manifest>
 
